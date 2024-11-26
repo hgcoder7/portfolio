@@ -1,0 +1,24 @@
+
+
+.signup-mobile{
+    display: none;
+}
+.signup-desktop{
+    display: inline-block;
+    
+}
+
+@media only screen and (max-width:500px){
+
+
+.signup-mobile{
+    display: inline-block;
+}
+.signup-desktop{
+    display: none;
+    display: none;
+}
+.image-container{
+    display: none;
+}
+}

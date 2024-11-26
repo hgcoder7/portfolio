@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12523591.css",
+    "main.js": "/static/js/main.0dfb48c1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kauntujhe.mp4": "/static/media/kauntujhe.d4e7d9c57db8cf13a9ee.mp4",
+    "static/media/Tajmahal-bg-removed.png": "/static/media/Tajmahal-bg-removed.e03848b0e31ce8e3c5c9.png",
+    "static/media/Shield.png": "/static/media/Shield.43dcd325c0affd5ad62e.png",
+    "static/media/atishprofile.jpeg": "/static/media/atishprofile.fb4fb821a26328e23b49.jpeg",
+    "static/media/uttarpradesh.png": "/static/media/uttarpradesh.ec29b547712dd2a2b0db.png",
+    "static/media/project1.png": "/static/media/project1.a57e90f4b9ff7918a2e8.png",
+    "static/media/deadpool.png": "/static/media/deadpool.f179e87350dbcf838e46.png",
+    "static/media/airforce.jpg": "/static/media/airforce.a4f5775cbdd2e1be85a8.jpg",
+    "static/media/background-img.png": "/static/media/background-img.fc1efeb81ea5618a56df.png",
+    "static/media/project2.png": "/static/media/project2.e88f94c82e2aa9c75d74.png",
+    "static/media/project3.png": "/static/media/project3.0ace732ed7a8defe06c6.png",
+    "static/media/guitar.png": "/static/media/guitar.6b8cc091ea483f2b3e93.png",
+    "static/media/lamp.png": "/static/media/lamp.d3f0499e82374ce3a21f.png",
+    "static/media/atishimg.jpg": "/static/media/atishimg.24fd3fd004eb2b2c5232.jpg",
+    "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.12523591.css.map": "/static/css/main.12523591.css.map",
+    "main.0dfb48c1.js.map": "/static/js/main.0dfb48c1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12523591.css",
+    "static/js/main.0dfb48c1.js"
+  ]
+}
