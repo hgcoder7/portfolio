@@ -66,7 +66,7 @@ const Accomplishments = () => {
         <source src="./background.ogg" type="video/ogg" />
        </video> */}
        <div style={{color:'whitesmoke',fontSize:20,fontWeight:'bold',}}>ACCOMPLISHMENTS</div>
-   <div className='box1'>
+   {/* <div className='box1'>
     <div className='airforce'>
        Indian Air Force
     </div>
@@ -76,11 +76,11 @@ const Accomplishments = () => {
      <div style={{color:'white',marginLeft:10,right:10,textAlign:'center',fontSize:20,marginTop:20}}>Roll No: 2004112849 </div>
 
      <div style={{color:'white',marginLeft:10,right:10,textAlign:'center',fontSize:20,marginTop:20}}>
-           {/* PROVISIONAL SELECT LIST ( PSL ) link :
-           <button style={{textDecoration:'none',padding:7,marginTop:20,background:'orange',outline:'none',border:'none',borderRadius:4}}><a style={{textDecoration:'none',fontWeight:'bold',fontSize:15,color:'black'}} href="https://drive.google.com/file/d/188Mf2jJWH5S-FyeqwKn2KnLco0XfMN4a/view"> Go to pdf </a></button> */}
+           PROVISIONAL SELECT LIST ( PSL ) link :
+           <button style={{textDecoration:'none',padding:7,marginTop:20,background:'orange',outline:'none',border:'none',borderRadius:4}}><a style={{textDecoration:'none',fontWeight:'bold',fontSize:15,color:'black'}} href="https://drive.google.com/file/d/188Mf2jJWH5S-FyeqwKn2KnLco0XfMN4a/view"> Go to pdf </a></button>
          </div>
-   </div>
-   <div className='box1'>
+   </div> */}
+   {/* <div className='box1'>
     <div className='rajbhawan'>
       Raj Bhawan
      </div>
@@ -98,7 +98,7 @@ const Accomplishments = () => {
       <div style={{height:50,width:'100%'}}></div>
     
 
-   </div>
+   </div> */}
    <div className='box1'>
    <div className='hackcbs'>
       Hackcbs 5.0

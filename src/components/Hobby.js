@@ -70,12 +70,13 @@ const Hobby = () => {
 
            <div style={{marginLeft:25,fontSize:15,right:10,color:'white',right:15}}>Beyond my tech endeavors, I find joy in playing <span style={{fontWeight:'bold'}}>Basketball</span> and immersing myself in <span style={{fontWeight:'bold'}}>books</span> .Basketball is my way to stay active and sharpen my teamwork skills, while reading fuels my curiosity and broadens my perspective. These hobbies not only provide balance but also inspire creativity and resilience in my daily life.</div>
 
-           <div style={{marginTop:20,position:'absolute',marginLeft:25,fontSize:15,color:'white',fontWeight:'bold',right:10}}>Kaun Tujhe Guitar Fingerstyle and list of my favourite books, The Da Vinci Code, Dark Places and The Alchemist</div>
+           {/* <div style={{marginTop:20,position:'absolute',marginLeft:25,fontSize:15,color:'white',fontWeight:'bold',right:10}}>Kaun Tujhe Guitar Fingerstyle and list of my favourite books, The Da Vinci Code, Dark Places and The Alchemist</div> */}
 
 
-           <video poster={Guitar} title="Kaun Tujhe Song Fingerstyle" width="100%" height="500px" controls="controls" loop style={{marginLeft:'0%',marginTop:130}}>
+           {/* <video poster={Guitar} title="Kaun Tujhe Song Fingerstyle" width="100%" height="500px" controls="controls" loop style={{marginLeft:'0%',marginTop:130}}>
            <source src={KaunTujhe} type="video/mp4" />
-            </video>
+            </video> */}
+            <img src={Guitar} style={{marginTop:100,marginLeft:25,height:"250px",width:'auto'}} />
 
           
     
@@ -89,7 +90,7 @@ const Hobby = () => {
 <div style={{display:'inline'}} >
     {items.map((item,index)=>(
        
-        <img src={item} style={{height:120,width:'auto',marginLeft:40,borderRadius:5,boxShadow:'0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',marginBottom:50}}></img>
+        <img src={item} style={{height:120,width:'auto',marginLeft:40,marginTop:20,borderRadius:5,boxShadow:'0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',marginBottom:50}}></img>
     
      
     ))}

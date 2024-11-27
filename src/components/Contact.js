@@ -47,21 +47,21 @@ const Contact = () => {
       <div style={{display:'inline-flex',height:70,width:300,marginTop:20}}>
         <div>
         <img src={Linkedin} style={{height:30,width:'auto',marginLeft:30}}></img>
-        <h5 style={{position:'absolute',marginTop:0,marginLeft:30,color:'white',textDecoration:'none'}}><a href={"https://www.linkedin.com/in/atish-yadav-5a4b841a3/"} target="_blank" color="white" textDecoration="none">visit</a></h5>
+        <h5 style={{position:'absolute',marginTop:0,marginLeft:30,color:'white',textDecoration:'none'}}><a href={"https://www.linkedin.com/in/harshit-gupta-4510b422b/"} target="_blank" color="white" textDecoration="none">visit</a></h5>
         </div>
         
 
 
         <div>
-        <img src={Instagram} style={{height:30,width:'auto',marginLeft:50}}></img>
+        <img src={Instagram} style={{height:30,width:'auto',marginLeft:70}}></img>
 
-        <h5 style={{position:'absolute',marginTop:0,marginLeft:20,color:'white'}}>@theatishyadav</h5>
+        <h5 style={{position:'absolute',marginTop:0,marginLeft:50,color:'white'}}>@guptaji_11</h5>
         </div>
 
 
         <div>
-        <img src={Email} style={{height:30,width:'auto',marginLeft:110}}></img>
-        <h5 style={{position:'absolute',marginTop:0,marginLeft:60,color:'white'}}>atishcomp@gmail.com</h5>
+        <img src={Email} style={{height:30,width:'auto',marginLeft:150}}></img>
+        <h5 style={{position:'absolute',marginTop:0,marginLeft:70,color:'white'}}>work.harshitgt@gmail.com</h5>
         </div>
 
       </div>
